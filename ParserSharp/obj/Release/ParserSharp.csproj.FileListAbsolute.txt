@@ -1,0 +1,13 @@
+C:\Users\Stot_\OneDrive\Documents\GitHub\ParserSharp\ParserSharp\bin\Release\ParserSharp.exe.config
+C:\Users\Stot_\OneDrive\Documents\GitHub\ParserSharp\ParserSharp\bin\Release\ParserSharp.exe
+C:\Users\Stot_\OneDrive\Documents\GitHub\ParserSharp\ParserSharp\bin\Release\ParserSharp.pdb
+C:\Users\Stot_\OneDrive\Documents\GitHub\ParserSharp\ParserSharp\bin\Release\Newtonsoft.Json.dll
+C:\Users\Stot_\OneDrive\Documents\GitHub\ParserSharp\ParserSharp\bin\Release\Newtonsoft.Json.xml
+C:\Users\Stot_\OneDrive\Documents\GitHub\ParserSharp\ParserSharp\obj\Release\ParserSharp.csproj.AssemblyReference.cache
+C:\Users\Stot_\OneDrive\Documents\GitHub\ParserSharp\ParserSharp\obj\Release\ParserSharp.Form1.resources
+C:\Users\Stot_\OneDrive\Documents\GitHub\ParserSharp\ParserSharp\obj\Release\ParserSharp.Properties.Resources.resources
+C:\Users\Stot_\OneDrive\Documents\GitHub\ParserSharp\ParserSharp\obj\Release\ParserSharp.csproj.GenerateResource.cache
+C:\Users\Stot_\OneDrive\Documents\GitHub\ParserSharp\ParserSharp\obj\Release\ParserSharp.csproj.CoreCompileInputs.cache
+C:\Users\Stot_\OneDrive\Documents\GitHub\ParserSharp\ParserSharp\obj\Release\ParserSharp.csproj.CopyComplete
+C:\Users\Stot_\OneDrive\Documents\GitHub\ParserSharp\ParserSharp\obj\Release\ParserSharp.exe
+C:\Users\Stot_\OneDrive\Documents\GitHub\ParserSharp\ParserSharp\obj\Release\ParserSharp.pdb
